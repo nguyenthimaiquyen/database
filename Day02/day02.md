@@ -7,6 +7,7 @@
 #### 2. Output: 
 
 Command:
+
 ![Alt text](image-02.png)
 
 Result:
